@@ -1,5 +1,7 @@
-# Self_Study
+# Content:
 
-1. Practice Matplotlib
-2. Practice Python
-3. Practice NumPy
+### Basics of :-
+
+1. Matplotlib
+2. Python
+3. NumPy
